@@ -8,8 +8,37 @@
 
 ### Info on Group Project:
 
-1. Arkanoid
-2. 
-3. 
-4. 
-5. 
+1. title
+. .* Description
+. .* Mockups
+. .* Photos or Screen Captures
+. .* Source Code
+. .* Exported App (if applicable)
+
+2. title
+. .* Description
+. .* Mockups
+. .* Photos or Screen Captures
+. .* Source Code
+. .* Exported App (if applicable)
+
+3. title
+. .* Description
+. .* Mockups
+. .* Photos or Screen Captures
+. .* Source Code
+. .* Exported App (if applicable)
+
+4. title
+. .* Description
+. .* Mockups
+. .* Photos or Screen Captures
+. .* Source Code
+. .* Exported App (if applicable)
+
+5. Arkanoid
+. .* Description
+. .* Mockups
+. .* Photos or Screen Captures
+. .* Source Code
+. .* Exported App (if applicable)
