@@ -9,6 +9,7 @@
 ### Info on Group Project:
 
 1. title
+
 Description
 
 Mockups
@@ -20,33 +21,49 @@ Source Code
 Exported App (if applicable)
 
 2. title
-. .* Description
 
-. .* Mockups
+Description
 
-. .* Photos or Screen Captures
+Mockups
 
-. .* Source Code
+Photos or Screen Captures
 
-. .* Exported App (if applicable)
+Source Code
+
+Exported App (if applicable)
 
 3. title
-. .* Description
-. .* Mockups
-. .* Photos or Screen Captures
-. .* Source Code
-. .* Exported App (if applicable)
+
+Description
+
+Mockups
+
+Photos or Screen Captures
+
+Source Code
+
+Exported App (if applicable)
 
 4. title
-. .* Description
-. .* Mockups
-. .* Photos or Screen Captures
-. .* Source Code
-. .* Exported App (if applicable)
+
+Description
+
+Mockups
+
+Photos or Screen Captures
+
+Source Code
+
+Exported App (if applicable)
 
 5. Arkanoid
-. .* Description
-. .* Mockups
-. .* Photos or Screen Captures
-. .* Source Code
-. .* Exported App (if applicable)
+
+Description
+
+Mockups
+
+Photos or Screen Captures
+
+Source Code
+
+Exported App (if applicable)
