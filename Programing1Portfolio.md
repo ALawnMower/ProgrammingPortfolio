@@ -8,7 +8,7 @@
 
 ### Info on Group Project:
 
-1. title
+#### 1. title
 
 Description
 
@@ -20,7 +20,7 @@ Source Code
 
 Exported App (if applicable)
 
-2. title
+#### 2. title
 
 Description
 
@@ -32,7 +32,7 @@ Source Code
 
 Exported App (if applicable)
 
-3. title
+#### 3. title
 
 Description
 
@@ -44,7 +44,7 @@ Source Code
 
 Exported App (if applicable)
 
-4. title
+#### 4. title
 
 Description
 
@@ -56,7 +56,7 @@ Source Code
 
 Exported App (if applicable)
 
-5. Arkanoid
+#### 5. Arkanoid
 
 Description
 
