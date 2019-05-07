@@ -7,3 +7,9 @@
 ### Certification(s) earned: N/A
 
 ### Info on Group Project:
+
+1. Arkanoid
+2. 
+3. 
+4. 
+5. 
