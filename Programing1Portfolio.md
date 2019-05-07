@@ -10,16 +10,24 @@
 
 1. title
 Description
+
 Mockups
+
 Photos or Screen Captures
+
 Source Code
+
 Exported App (if applicable)
 
 2. title
 . .* Description
+
 . .* Mockups
+
 . .* Photos or Screen Captures
+
 . .* Source Code
+
 . .* Exported App (if applicable)
 
 3. title
