@@ -9,11 +9,11 @@
 ### Info on Group Project:
 
 1. title
-..* Description
-..* Mockups
-..* Photos or Screen Captures
-..* Source Code
-..* Exported App (if applicable)
+⋅⋅* Description
+⋅⋅* Mockups
+⋅⋅* Photos or Screen Captures
+⋅⋅* Source Code
+⋅⋅* Exported App (if applicable)
 
 2. title
 . .* Description
