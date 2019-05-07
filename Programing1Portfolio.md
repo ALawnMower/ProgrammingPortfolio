@@ -1,10 +1,9 @@
 # Programming-1-Portfolio
-Alan Mo's Programming 1 Portfolio.
 
-Email: alankinau@gmail.com
+##Name: Alan Mo
 
+##Email: alankinau@gmail.com
 
+##Certification(s) earned: N/A
 
-
-
-
+##Info on Group Project:
