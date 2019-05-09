@@ -1,5 +1,5 @@
 # Welcome to Alan Mo's Programming Portfolio
-## 2018-2019 Programming 1
+## Programming 1 2018-2019
 ## Email: alankinau@gmail.com
 
 
