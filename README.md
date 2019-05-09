@@ -16,4 +16,4 @@
 
 ### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.macosx.zip)
 
-[Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip?raw=true)
+[Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip)
