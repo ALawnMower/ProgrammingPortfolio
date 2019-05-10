@@ -37,3 +37,16 @@
 ### [Downloadable App for windows 64] ()
 ### [Downloadable App for macosx] ()
 [Downloadable App for linux 64] ()
+
+
+
+## Etch-A-Sketch
+### Description: Use the arrow keys to move a line across the screen and draw pictures.
+### GUIs
+![Face01](https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/face01.png?raw=true)
+![Face02](https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/face02.png?raw=true)
+![Person01](https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/person01.png?raw=true)
+### [Source Code For EtchASketch] (https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/etch_a_sketch.zip)
+### [Downloadable App for windows 64] ()
+### [Downloadable App for macosx] ()
+[Downloadable App for linux 64] ()
