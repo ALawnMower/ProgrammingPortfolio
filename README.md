@@ -1,5 +1,5 @@
 # Welcome to Alan Mo's Programming Portfolio
-### Programming 1 2018-2019
+### 2018-2019 Programming 1
 ### Email: alankinau@gmail.com
 
 
@@ -25,10 +25,10 @@
 
 ### Description: A screensaver
 ### GUIs
-![Screensaver01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver01.PNG)
-![Screensaver02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver02.PNG)
+![Screensaver01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver01.PNG?raw=true)
+![Screensaver02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver02.PNG?raw=true)
 
-### [Source Code For Calculator] ()
+### [Source Code For Screensaver] ()
 
 ### [Downloadable App for windows 64] ()
 
