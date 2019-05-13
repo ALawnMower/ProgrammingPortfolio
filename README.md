@@ -1,7 +1,7 @@
 # Welcome to Alan Mo's Programming Portfolio
 ### 2018-2019 Programming 1
 ### Email: alankinau@gmail.com
-
+### Certifications Earned This Year: C#
 
 
 ## Object oriented calculator
