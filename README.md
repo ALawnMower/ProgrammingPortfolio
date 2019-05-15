@@ -12,7 +12,7 @@
 ### [Source Code For Calculator] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/Calculator%202.zip)
 ### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.windows64.zip)
 ### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.macosx.zip)
-[Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip)
+### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip)
 
 
 
@@ -22,9 +22,9 @@
 ![Screensaver01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver01.PNG?raw=true)
 ![Screensaver02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/Screensaver02.PNG?raw=true)
 ### [Source Code For Screensaver] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/screen_saver_app.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Screensaver/application.linux64.zip)
 
 
 
