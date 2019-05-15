@@ -10,7 +10,6 @@
 ![Calculator02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/calculator.jpg?raw=true)
 ![Calculator01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/Calculator01.png?raw=true)
 ### [Source Code For Calculator] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/Calculator%202.zip)
-### [1]:{{https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.windows64.zip}}/application.windows64.zip
 ### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.windows64.zip)
 ### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.macosx.zip)
 ### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Calc/application.linux64.zip)
@@ -35,9 +34,9 @@
 ![Cars01](https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/Cars01.PNG?raw=true)
 ![Cars02](https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/Cars02.PNG?raw=true)
 ### [Source Code For Cars] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/Cars.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/Cars/application.linux64.zip)
 
 
 
@@ -48,9 +47,9 @@
 ![Face02](https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/face02.png?raw=true)
 ![Person01](https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/person01.png?raw=true)
 ### [Source Code For EtchASketch] (https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/etch_a_sketch.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/EtchASketch/application.linux64.zip)
 
 
 
@@ -60,6 +59,6 @@
 ![MakeFace01](https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/MakeFace01.png?raw=true)
 ![MakeFace02](https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/MakeFace02.png?raw=true)
 ### [Source Code For MakeAFace] (https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/make_a_face.zip)
-### [Downloadable App for windows 64] ()
-### [Downloadable App for macosx] ()
-[Downloadable App for linux 64] ()
+### [Downloadable App for windows 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/application.windows64.zip)
+### [Downloadable App for macosx] (https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/application.macosx.zip)
+### [Downloadable App for linux 64] (https://github.com/Alan78268/Programming1Portfolio/blob/master/MakeAFace/application.linux64.zip)
