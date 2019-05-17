@@ -36,7 +36,7 @@ Sticky Paddle
 
 [Gantt Chart Google Sheet](https://docs.google.com/spreadsheets/d/1Shp2_2NEoFC1ntGT3zCb_5CJRH_UIU3HSX2pU7bVX1U/edit?usp=sharing)
 
-
+[Link To Arkanoid Repository](https://github.com/SkylineHigh/A4Java/tree/master/Arkanoid)
 
 
 ## Object oriented calculator
