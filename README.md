@@ -129,7 +129,7 @@ Sticky Paddle
 
 
 ## SpaceGame
-### Description: A shooter game modeled after space invaders.
+### Description: A shooter game modeled after space invaders. Uses the mouse to move the ship.
 ### GUIs
 
 ![Space Game Start Screen](https://github.com/Alan78268/Programming1Portfolio/blob/master/SpaceGame/SpaceGameStart.png?raw=true)
