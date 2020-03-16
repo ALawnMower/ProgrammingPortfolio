@@ -167,8 +167,8 @@ Sticky Paddle
 
 [Source Code For MoFishing](https://github.com/Alan78268/ProgrammingPortfolio/tree/master/MoFishing/src)
 
-[Downloadable App for windows 64]()
+[Downloadable App for windows 64](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/executables/application.windows64.zip)
 
 [Downloadable App for macosx]()
 
-[Downloadable App for linux 64]()
+[Downloadable App for linux 64](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/executables/application.linux64.zip)
