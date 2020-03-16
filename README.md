@@ -154,6 +154,7 @@ Sticky Paddle
 ### Description: Move your platform left and right using the arrow keys
 ### Up and down keys to lower and raise your hook
 ### if your hook touches a fish, you will catch the fish
+### you can click the fish and the sharks to open a web link about the fish/shark
 ### Don't catch the shark or you will die!!
 ### GUIs
 
