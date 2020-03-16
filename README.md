@@ -147,7 +147,7 @@ Sticky Paddle
 [Downloadable App for linux 64](https://github.com/Alan78268/Programming1Portfolio/blob/master/SpaceGame/application.linux64.zip)
 
 
-## 2019-2020 Programming 2
+# 2019-2020 Programming 2
 ### Certifications Earned This Year: Java, C++, Visual Basic, Python
 
 # MoFishing
@@ -164,6 +164,10 @@ Sticky Paddle
 ![MoFishing Level2](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/images/level2.PNG?raw=true)
 
 ![MoFishing Game Over Screen](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/images/gameOver.PNG?raw=true)
+
+![MoFishing Class Diagram](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/images/classDiagram.PNG?raw=true)
+
+![MoFishing Flow Chart](https://github.com/Alan78268/ProgrammingPortfolio/blob/master/MoFishing/images/flow.PNG?raw=true)
 
 [Source Code For MoFishing](https://github.com/Alan78268/ProgrammingPortfolio/tree/master/MoFishing/src)
 
